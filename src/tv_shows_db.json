@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Chronicles of the Galaxy",
+    "genre": "Adventure",
+    "seasons": 5,
+    "rating": 8
+  },
+  {
+    "title": "Mystery Island",
+    "genre": "Fantasy",
+    "seasons": 3,
+    "rating": 9
+  },
+  {
+    "title": "Epic Quest",
+    "genre": "Fantasy",
+    "seasons": 4,
+    "rating": 7
+  },
+  {
+    "title": "Crime Files",
+    "genre": "Crime Drama",
+    "seasons": 6,
+    "rating": 5
+  },
+  {
+    "title": "Medical Miracles",
+    "genre": "Medical Drama",
+    "seasons": 2,
+    "rating": 8
+  },
+  {
+    "title": "Time Travelers",
+    "genre": "Adventure",
+    "seasons": 4,
+    "rating": 8
+  },
+  {
+    "title": "Fallout",
+    "genre": "action",
+    "seasons": 1,
+    "rating": 8
+  },
+  {
+    "title": "РљСѓС…РЅСЏ",
+    "genre": "РєРѕРјРµРґРёСЏ",
+    "seasons": 5,
+    "rating": 7
+  },
+  {
+    "title": "Кухня",
+    "genre": "комедия",
+    "seasons": 5,
+    "rating": 7
+  }
+]
